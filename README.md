@@ -10,7 +10,7 @@ __Note:__ Mac OS X, Linux and Windows are currently the only supported OSes. Oth
 
 ## JsDoc documentation
 
-[Go and see](http://http://gbrault.github.io/noble/)
+[Go and see](http://gbrault.github.io/noble/)
 
 ## Prerequisites
 

@@ -8,6 +8,10 @@ Want to implement a peripheral? Checkout [bleno](https://github.com/sandeepmistr
 
 __Note:__ Mac OS X, Linux and Windows are currently the only supported OSes. Other platforms may be developed later on.
 
+## JsDoc documentation
+
+[Go and see](http://http://gbrault.github.io/noble/)
+
 ## Prerequisites
 
 ### OS X
